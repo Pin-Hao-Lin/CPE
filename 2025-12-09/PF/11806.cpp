@@ -11,7 +11,7 @@ int main() {
         }
     }
 
-    int T, N, M, K;
+    int T, N, M, K, cas = 0;
     cin >> T;
     while (T-- && cin >> N >> M >> K) {
         int result = 0;
@@ -26,8 +26,9 @@ int main() {
             }
             if (cnt & 1) result -= C[r*c][K];
             else result += C[r*c][K];
-            result %= MOD;
+            result = (result + MOD) % MOD;
         }
+        cout << "Case " << ++cas << ": ";
         cout << result << endl;
     }
 }
