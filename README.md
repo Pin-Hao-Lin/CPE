@@ -10,13 +10,13 @@
 ---
 
 ## 2018-10-02
-1. [UVa 12650 Dangerous Dive]()
-2. [UVa 10409 Die Game]()
-3. [UVa 00145 Gondwanaland Telecom]()
-4. [UVa 11157 Dynamic Frog]()
-5. [UVa 13185 DPA Numbers I]()
-6. [UVa 12208 How Many Ones Needed?]()
-7. [UVa 10364 Square]()
+1. [UVa 12650 Dangerous Dive](https://github.com/Pin-Hao-Lin/UVa/tree/main/12650%20Dangerous%20Dive)
+2. [UVa 10409 Die Game](https://github.com/Pin-Hao-Lin/UVa/tree/main/10409%20Die%20Game)
+3. [UVa 00145 Gondwanaland Telecom](https://github.com/Pin-Hao-Lin/UVa/tree/main/00145%20Gondwanaland%20Telecom)
+4. [UVa 11157 Dynamic Frog](https://github.com/Pin-Hao-Lin/UVa/tree/main/11157%20Dynamic%20Frog)
+5. [UVa 13185 DPA Numbers I](https://github.com/Pin-Hao-Lin/UVa/tree/main/13185%20DPA%20Numbers%20I)
+6. [UVa 12208 How Many Ones Needed?](https://github.com/Pin-Hao-Lin/UVa/tree/main/12208%20How%20Many%20Ones%20Needed)
+7. [UVa 10364 Square](https://github.com/Pin-Hao-Lin/UVa/tree/main/10364%20Square)
 
 ---
 
